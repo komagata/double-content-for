@@ -1,0 +1,16 @@
+GEM
+  specs:
+    haml (3.0.23)
+    rack (1.2.1)
+    sinatra (1.0)
+      rack (>= 1.0)
+    sinatra-content-for (0.2)
+      sinatra
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  haml
+  sinatra
+  sinatra-content-for
