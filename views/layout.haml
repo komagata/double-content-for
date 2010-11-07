@@ -1,6 +1,6 @@
 %html
   %head
-    %title Hello, World
-    = yield_content :head
+    %title Double content_for
   %body
     = yield
+    = yield_content :foo
